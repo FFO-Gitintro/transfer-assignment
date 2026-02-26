@@ -3,3 +3,4 @@
 2. Enables tracking of different versions of your code. If you delete something accidentally you can recover it.
 
 # Weaknesses
+1. Steep learning curve
