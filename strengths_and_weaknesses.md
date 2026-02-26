@@ -4,3 +4,4 @@
 
 # Weaknesses
 1. Steep learning curve
+2. Struggles with binary files (i.e. non-text files) 
